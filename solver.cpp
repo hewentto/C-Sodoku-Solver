@@ -1,12 +1,8 @@
-   /***********************************************************************
-* Program:
-*    Project 13, Sodoku
-*    Sister Hansen, CS124
+/***********************************************************************
 * Author:
 *    Jared Denning
 * Summary: 
 *    Simple program that allows user to play sodoku
-* Please describe briefly what was the most difficult part.
 ************************************************************************/
 
 using namespace std;
